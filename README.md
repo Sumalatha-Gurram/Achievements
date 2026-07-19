@@ -6,4 +6,6 @@ Status: Completed
 Score: 92/100
 Date: 19 July 2026
 
-See the screenshot in the `Achievments` folder.
+See the screenshot below:
+
+![Test Screenshot](images/Capture.png)
