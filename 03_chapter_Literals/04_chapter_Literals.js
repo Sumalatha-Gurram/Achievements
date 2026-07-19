@@ -10,3 +10,5 @@ let undefinedValue=undefined;
 console.log(typeof undefinedValue);
 let name="Sumalatha";
 console.log(typeof name);
+let B=147822369123641478514n
+console.log(typeof B); // Output: bigint
