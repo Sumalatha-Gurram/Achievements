@@ -1,0 +1,15 @@
+let arr=[5, 10, 3, 8, 2];
+arr.push(4);
+console.log("Array after push: " + arr);
+arr.pop();
+console.log("Array after pop: " + arr);
+arr.unshift(1);
+console.log("Array after unshift: " + arr);
+arr.shift();
+console.log("Array after shift: " + arr);
+arr.splice(2, 1);
+console.log("Array after splice: " + arr);
+arr.push(4, 6, 7 );
+console.log("Array after push: " + arr);
+let newArr=arr.slice(1, 3);
+console.log("New array after slice: " + newArr);
