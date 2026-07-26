@@ -9,3 +9,11 @@ Date: 19 July 2026
 See the screenshot below:
 
 ![Test Screenshot](images/Capture.png)
+
+Javascript Basic Test 1
+Status: Completed
+Score: 93/100
+Date: 26 July 2026
+See the screenshot below:
+ 
+![Test Screenshot 2](C:\Users\NARAYANA\Pictures\Capture6.PNG)
