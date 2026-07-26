@@ -16,4 +16,4 @@ Score: 93/100
 Date: 26 July 2026
 See the screenshot below:
  
-![Test Screenshot 2](C:\Users\NARAYANA\Pictures\Capture6.PNG)
+![Test Screenshot 2](images/Capture6.PNG)
