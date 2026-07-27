@@ -14,6 +14,7 @@ Javascript Basic Test 1
 Status: Completed
 Score: 93/100
 Date: 26 July 2026
+
 See the screenshot below:
  
 ![Test Screenshot 2](images/Capture6.PNG)
